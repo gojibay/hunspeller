@@ -13,3 +13,5 @@ $ export C_INCLUDE_PATH=/usr/local/include/hunspell
 $ sudo ln -sf /usr/local/lib/libhunspell-1.4.a /usr/local/lib/libhunspell.a
 $ pip install hunspell
 ```
+cf https://coderwall.com/p/nhmyeg/installing-hunspell-via-pip-on-osx-mavericks
+
