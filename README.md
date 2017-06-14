@@ -15,3 +15,6 @@ $ pip install hunspell
 ```
 cf https://coderwall.com/p/nhmyeg/installing-hunspell-via-pip-on-osx-mavericks
 
+## Ressources
+
+https://cgit.freedesktop.org/libreoffice/dictionaries/tree/
