@@ -10,6 +10,6 @@ In case you are having trouble installing hunspell (not finding hunspell.h or -l
 ```
 $ brew install hunspell
 $ export C_INCLUDE_PATH=/usr/local/include/hunspell
-$ sudo ln -sf /usr/local/lib/libhunspell-1.3.a /usr/local/lib/libhunspell.a
+$ sudo ln -sf /usr/local/lib/libhunspell-1.4.a /usr/local/lib/libhunspell.a
 $ pip install hunspell
 ```
